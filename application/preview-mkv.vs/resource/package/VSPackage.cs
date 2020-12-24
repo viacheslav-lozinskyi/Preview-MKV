@@ -21,7 +21,7 @@ namespace resource.package
             public const string EXTENSION = ".MKV";
             public const string GUID = "7D000811-170A-464E-AAF5-2FD73D823FC8";
             public const string NAME = "Preview-MKV";
-            public const string VERSION = "1.0.1";
+            public const string VERSION = "1.0.2";
         }
 
         protected override async Task InitializeAsync(CancellationToken cancellationToken, IProgress<ServiceProgressData> progress)
